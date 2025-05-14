@@ -1,0 +1,73 @@
+.tahoma-text {
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .deals-box {
+    font-family: Arial, sans-serif;
+  }
+  
+  .deal-main {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .deal-sub {
+    font-size: 16px;
+    color: red;
+    font-style: italic;
+  }
+
+  .course-box {
+    font-family: Verdana, sans-serif;
+    max-width: 300px;
+  }
+  
+  .course-title {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .course-level {
+    color: gray;
+    margin-top: -10px;
+  }
+  
+  .course-desc {
+    margin: 10px 0;
+    font-size: 14px;
+  }
+  
+  .start-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .apple-box {
+    font-family: Arial, sans-serif;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .apple-title {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .apple-sub {
+    color: #555;
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
+  .apple-link {
+    color: #0073e6;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  

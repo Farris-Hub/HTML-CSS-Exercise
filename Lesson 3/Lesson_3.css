@@ -1,0 +1,94 @@
+.uber-btn {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    opacity: 1;
+    cursor: pointer;
+    transition: opacity 0.3s;
+  }
+  
+  .uber-btn:hover {
+    opacity: 0.7;
+  }
+
+  .amazon-btn {
+    background-color: #f7ca00;
+    color: black;
+    padding: 10px 20px;
+    border: 1px solid #a88734;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .amazon-btn:hover {
+    background-color: #e6b800;
+  }
+
+  .github-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: none;
+    transition: box-shadow 0.3s;
+  }
+  
+  .github-btn:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .bootstrap-btn {
+    background-color: #6f42c1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .bootstrap-btn:hover {
+    background-color: #5a32a3;
+    color: #e0d6f5;
+  }
+  .download-btn {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: 1px solid rgb(108, 117, 125);
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: text-color 0.3s, color 0.3s;
+  }
+
+  .linkedin-apply {
+    background-color: #0073b1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 30px;
+
+  }
+  
+  .linkedin-apply:hover {
+    background-color: #005582;
+  }
+  
+  .linkedin-save {
+    background-color: white;
+    color: #0073b1;
+    padding: 10px 20px;
+    border: 2px solid #0073b1;
+    cursor: pointer;
+    transition: border-width 0.3s;
+    border-radius: 30px;
+  }
+  
+  .linkedin-save:hover {
+    border-width: 3px;
+  }
